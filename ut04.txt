@@ -1,0 +1,16 @@
+9 15 U
+a b 8
+a c 6
+a d 1
+b d 6
+b e 7
+b i 10
+c d 5
+c f 14
+d e 4
+d f 3
+d g 5
+d h 2
+e g 16
+e i 1
+f g 4
